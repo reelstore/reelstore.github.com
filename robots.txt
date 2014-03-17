@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://reelstore.github.io/sitemap.xml 
